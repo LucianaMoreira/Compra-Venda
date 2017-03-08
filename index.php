@@ -5,7 +5,7 @@
 <title> Compra & Venda </title>
      
 <link rel=stylesheet href="estilo.css" type="text/css">
-<link rel=stylesheet href="Menus/menu.css" type="text/css">
+<link rel=stylesheet href="menu.css" type="text/css">
 <script type="text/javascript" src="javascript.js"></script>
     
 </HEAD>
@@ -21,7 +21,7 @@
 <br>
     
 <div class="Topo">
-<img src='Imagens/logo.png' align='left' width='800px' height='120'>   
+<img src='logo.png' align='left' width='800px' height='120'>   
 </div>
     
 <div class="menu">
@@ -31,22 +31,22 @@
 			}else{
 			$valor= 1; }
 			 switch ($valor){
-  case 1: include("Menus/menu1.php");
+  case 1: include("menu1.php");
   break; 
-  case 2: include ("Menus/menu2.php");
+  case 2: include ("menu2.php");
   break;
-  case 3: include ("Menus/menu3.php");
+  case 3: include ("menu3.php");
   break;
-  case 4: include ("Menus/menu4.php");
+  case 4: include ("menu4.php");
   break;
-  default: include ("Menus/menu1.php");
+  default: include ("menu1.php");
 }			
 ?>
 </div>
     
 <BR>
 <div class="slides">
-<img src='Imagens/slide.png' align='center' width='1024px' height='200' >  
+<img src='slide.png' align='center' width='1024px' height='200' >  
 </div>
 
 <div class="corpo">
