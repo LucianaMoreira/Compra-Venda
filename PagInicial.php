@@ -1,7 +1,7 @@
 <H2>Compra&Venda.com </H2>
 <hr>
 <br>
-<img src='Imagens/img.jpg' width='177' align='left'> 
+<img src='img.jpg' width='177' align='left'> 
 <p>
 Compra&Venda.com é um sistema de negociação de mercadorias on-line que lhe da completa segurança para vender aquilo que não for mais útil e procurar produtos de seu interesse.
 </p>
