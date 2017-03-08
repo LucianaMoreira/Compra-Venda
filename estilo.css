@@ -1,0 +1,65 @@
+body
+     {
+    background-image: url("Imagens/background.jpg"); 
+
+     }
+.topo
+     {
+     -moz-border-radius: 10px;
+     -webkit-border-radius: 10px;
+     position:static;
+     width:1024px;
+     height:120px;
+     } 
+.slides
+     {
+      width: 1024px;
+      height: 230px;
+	
+      } 
+	
+.tudo
+     {
+      width: 1030px;
+      height: auto;
+      }            
+
+.menu
+     {
+	 background-color: #E5EAED;
+     -moz-border-radius: 7px;
+     -webkit-border-radius: 7px;
+     position:static;
+     width:1024px;
+     height:48px;
+	 font-family: "Tempus Sans ITC";
+	 font-weight: "bold";
+     text-align: center;
+     }
+.corpo 
+     {
+     background-color: #F5F5F5;
+     padding: 15px;
+     -moz-border-radius: 7px;
+     -webkit-border-radius: 7px;
+     position:static;
+     width:1024px;
+     height:auto;
+	 font-family: "Tempus Sans ITC";
+	 font-weight: "bold";
+     text-align: left;
+     }                      
+
+.rodape
+     {
+     position:static;
+     width:1024px;
+     height:60px;
+	 text-align: right;
+    font-family: "Tempus Sans ITC";
+     }
+
+   h1, h2, h3,h4,h5
+    {
+     font-family: "Tempus Sans ITC";
+    }
