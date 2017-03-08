@@ -1,0 +1,71 @@
+.header, .content, .menu_nav, .fbg, .footer, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
+	margin:0;
+	padding:0;
+}
+
+.menu_nav {
+	margin:0 auto 0px;
+	padding:0;
+	height:37px;
+}
+.menu_nav ul {
+	list-style:none;
+	padding:0;
+	height:37px;
+	float:none;
+
+}
+.menu_nav ul li {
+	margin:0;
+	padding:0;
+	float:left;
+}
+.menu_nav ul li a {
+	display:block;
+	margin:0;
+	padding:7px 31px;
+	font-size:19px;
+	line-height:0px;
+	font-weight:normal;
+	color:#000;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+	background:none;
+}
+.menu_nav ul li.active a, .menu_nav ul li a:hover {
+	text-decoration:none;
+	color:#406DEA;
+}
+
+a {
+	outline:none;
+}
+h1 span {
+}
+.content .mainbar a.com span {
+	padding-left:4px;
+	font-weight:bold;
+	color:#334e7d;
+}
+.content p.pages span, .content p.pages a {
+	padding:8px 12px;
+	text-decoration:none;
+	background:#fff;
+}
+.content p.pages span, .content p.pages a:hover {
+	color:#fff;
+	background:#334e7d;
+}
+.fbg p.contact_info span {
+	display:block;
+	float:left;
+	width:74px;
+	font-weight:bold;
+}
+#formsearch span {
+	display:block;
+	margin:0;
+	padding:0;
+	float:left;
+}
